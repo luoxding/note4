@@ -1,12 +1,18 @@
-# Summary
+## Part I
 
-* [简介](index.md)
-* GitBook 的简介
-    * [什么是 GitBook](intro/intro.md)
-    * [GitBook 拥有哪些功能](intro/features.md)
-    * [Gitbook 的依赖](intro/requirements.md)
-    * [Gitbook 和其他电子书工具的对比](intro/compare.md)
-* GitBook 的使用
-    * [安装 GitBook](usage/install.md)
-* 工具链
-    * [Travis CI 自动发布 Github Pages](toolschain/travis-ci.md)
+* [简介](README.md)
+
+## Part II
+
+* [Linux学习笔记](src/01-linux.md)
+* [Windows学习笔记](src/02-windows.md)
+* [LaTeX学习笔记](src/03-latex.md)
+* [阅读笔记](src/04-read-note.md)
+
+## Part III
+
+* [BLinux学习笔记](brc/01-linux.md)
+* [BWindows学习笔记](brc/02-windows.md)
+* [BLaTeX学习笔记](brc/03-latex.md)
+* [B阅读笔记](brc/04-read-note.md)
+* [没什么吧](brc/Untitled.md)

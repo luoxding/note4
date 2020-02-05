@@ -1,2 +1,0 @@
-中
-git add . && git commit "更新" && git push

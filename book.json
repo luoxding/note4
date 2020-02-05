@@ -1,29 +1,27 @@
+
 {
-  "title": "GitBook", // 书籍名
-  "description": "This is a sample book created by gitbook", // 书籍描述
-  "generator": "site",
-  "language": "zh-hans", // 语言
-  "links": {
-    "sidebar": {
-       "zhl的博客": "https://blog.zhlzzz.com" // 侧边栏自定义地址
-    }
-  },
-  "plugins": [
-     "fontsettings",
-    "sharing",
-    "lunr",
-    "search",
-    "-highlight",
-    "prism",
-    "livereload",
-    "baidu",
-    "multipart"
-  ], // 插件
-  "pluginsConfig": {
-    "fontSettings": {
-        "theme": "sepia", "night" or "white",
-        "family": "serif" or "sans",
-        "size": 1 to 4
-    }
-  }, // 插件配置
+  "gitbook": ">=3.0.0",
+  "title": "Webフロントエンド パフォーマンス改善ハンドブック",
+  "description": "ウェブアプリケーションのフロントエンドにおけるパフォーマンス改善ハンドブック",
+  "author": "DWANGO Co., Ltd.",
+  "language" : "zh-hans",
+	"plugins": [
+		"auto-summary",
+		"-fontSettings"
+	],
+    "pluginsConfig": {
+      "auto-summary": {
+        "parts": { 
+           "README.md": "Part I",
+           "src/**/*.md": "Part II",
+		   "brc/**/*.md": "Part III"
+        }      
+      }
+            "fontSettings": {
+            "family": "STXinwei"
+        }
+	}
+
 }
+
+
