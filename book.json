@@ -1,13 +1,12 @@
 
 {
   "gitbook": ">=3.0.0",
-  "title": "Webフロントエンド パフォーマンス改善ハンドブック",
-  "description": "ウェブアプリケーションのフロントエンドにおけるパフォーマンス改善ハンドブック",
+  "title": "标题",
+  "description": "描述",
   "author": "DWANGO Co., Ltd.",
   "language" : "zh-hans",
 	"plugins": [
-		"auto-summary",
-		"-fontSettings"
+		"auto-summary"
 	],
     "pluginsConfig": {
       "auto-summary": {
@@ -17,9 +16,6 @@
 		   "brc/**/*.md": "Part III"
         }      
       }
-            "fontSettings": {
-            "family": "STXinwei"
-        }
 	}
 
 }
