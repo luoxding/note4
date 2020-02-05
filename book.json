@@ -1,17 +1,31 @@
 {
-  "description": "总结HTTP方面的技术供参考和学习", 
-  "links": {
-    "sidebar": {
-      "主页": "http://www.crifan.com"
-    }
-  }, 
-  "author": "Crifan Li <admin@crifan.com>", 
-  "title": "HTTP知识总结", 
-  "gitbook": "3.2.3", 
-  "language": "zh-hans", 
-  "plugins": [
-    "-lunr", 
-    "-search"
-  ], 
-  "root": "./src"
+    "author": "ljee <ljee8290@gmail.com>",
+    "description": "机器学习相关",
+    "extension": null,
+    "generator": "site",
+    "isbn": "",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        }
+    },
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "title": "机器学习笔记",
+    "variables": {}
 }

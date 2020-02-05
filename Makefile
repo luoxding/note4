@@ -1,1 +1,0 @@
-include ../../common/gitbook_makefile.mk
