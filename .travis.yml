@@ -39,6 +39,6 @@ deploy:
   local_dir: build
   #fqdn: $CUSTOM_DOMAIN
   name: $GIT_NAME
-  email: 412947296@qq.com
+ # email: 412947296@qq.com
   on:
     branch: master
