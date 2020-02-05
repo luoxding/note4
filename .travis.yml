@@ -34,7 +34,7 @@ deploy:
   provider: pages
   skip_cleanup: true
   # 在项目仪表盘的 Settings -> Environment Variables 中配置
-  github_token: $GITHUB_TOKEN
+  github_token: a0b3305554c6a5cae78e99be7ad35b6c7a021b29
   # 将 build 目录下的内容推送到默认的 gh-pages 分支上，并不会连带 build 目录一起
   local_dir: build
   #fqdn: $CUSTOM_DOMAIN
