@@ -22,7 +22,7 @@
 			"family": "sans"
 		},
 		"github": {
-			"url": "https://github.com/bestony/How-To-Gitbook"
+			"url": "https://https://github.com/luoxding/note4"
 		},
 		"include-codeblock": {
 			"template": "default",
@@ -54,13 +54,13 @@
 			]
 		},
 		"edit-link": {
-			"base": "https://github.com/bestony/How-To-Gitbook/edit/master",
+			"base": "https://https://github.com/luoxding/note4/edit/master",
 			"label": "编辑本页内容"
 		}
 	},
 	"links": {
 		"sidebar": {
-			"Github": "https://github.com/bestony/How-To-Gitbook"
+			"Github": "https://github.com/luoxding/note4"
 		}
 	}
 }
