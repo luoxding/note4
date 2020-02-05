@@ -4,7 +4,7 @@
 
 ## 本书目录
 
-1. 什么是 Gitbook
+1. 什么是 Gitbook03
 2. Gitbook 都拥有哪些功能
 3. Gitbook 与 LeanPub、KanCloud 的对比
 4. 安装 Gitbook
