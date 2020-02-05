@@ -15,7 +15,7 @@ install:
   - gitbook install
 
 script:
-  - gitbook build . ./
+  - gitbook build . .
 
 branches:
   only:
@@ -25,6 +25,6 @@ deploy:
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
-  local_dir: ./
+  local_dir: .
   on:
     branch: master
